@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f55f1f5.css",
+    "main.js": "/static/js/main.ff0368cf.js",
+    "static/js/787.b760201e.chunk.js": "/static/js/787.b760201e.chunk.js",
+    "static/media/m2macbook.jpg": "/static/media/m2macbook.d6279b7fabb578883115.jpg",
+    "static/media/ps5.png": "/static/media/ps5.5e29bce0007d64a642a3.png",
+    "static/media/instalogo.png": "/static/media/instalogo.0963b7a591227164566c.png",
+    "static/media/asset1.png": "/static/media/asset1.6534782a2c3e93031c1f.png",
+    "static/media/asset2.png": "/static/media/asset2.9f6e92762fcdd7beef5a.png",
+    "static/media/iphone14.jpg": "/static/media/iphone14.74af257f7f45b37a6b06.jpg",
+    "static/media/xboxseriesx.jpg": "/static/media/xboxseriesx.279c1dd4356cb6caa10f.jpg",
+    "static/media/logitechgpro.jpg": "/static/media/logitechgpro.61d02335c20a62477ef7.jpg",
+    "static/media/razerkairapro.jpg": "/static/media/razerkairapro.25fcc6769a4e3092268b.jpg",
+    "static/media/discordlogo.png": "/static/media/discordlogo.3849aaee2674a60fd134.png",
+    "static/media/wetechlogo.png": "/static/media/wetechlogo.a4a8ffa776c79f44a2e1.png",
+    "static/media/youtubelogo.png": "/static/media/youtubelogo.19f8e494a2e3dedb8654.png",
+    "index.html": "/index.html",
+    "main.5f55f1f5.css.map": "/static/css/main.5f55f1f5.css.map",
+    "main.ff0368cf.js.map": "/static/js/main.ff0368cf.js.map",
+    "787.b760201e.chunk.js.map": "/static/js/787.b760201e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f55f1f5.css",
+    "static/js/main.ff0368cf.js"
+  ]
+}
